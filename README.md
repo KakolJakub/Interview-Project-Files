@@ -2,6 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Status](#status)
+* [Gameplay](#gameplay)
 * [Installation](#planned-features)
 * [Technologies](#technologies)
 
@@ -10,6 +11,12 @@ Project files of the game prototype.
 
 ## Status
 Submitted.
+
+## Gameplay
+* Move with WASD or arrow keys.
+* Interact with the world by pressing left mouse button.
+* Press 'I' to open/close inventory.
+* Press 'TAB' to open/close sell menu.
 
 ## Installation
 * Go into releases.
