@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 777a8b86877542546a54e5deb4b275f8, type: 3}
+  m_Name: PlayerSkin
+  m_EditorClassIdentifier: 
+  head:
+    bodyPart: 0
+    leftSprite: {fileID: 7566269946926183640, guid: 04bb0ba23b53f3a4fa83585319038a50, type: 3}
+    rightSprite: {fileID: -1234222467425135142, guid: 04bb0ba23b53f3a4fa83585319038a50, type: 3}
+    frontSprite: {fileID: 7097681320220534368, guid: 04bb0ba23b53f3a4fa83585319038a50, type: 3}
+    backSprite: {fileID: -2136589778053333476, guid: 04bb0ba23b53f3a4fa83585319038a50, type: 3}
+  chest:
+    bodyPart: 1
+    leftSprite: {fileID: -3358160658390260786, guid: c751325898dad5d4d9dd657c72419302, type: 3}
+    rightSprite: {fileID: -187799746111698181, guid: c751325898dad5d4d9dd657c72419302, type: 3}
+    frontSprite: {fileID: 7576611807921758022, guid: c751325898dad5d4d9dd657c72419302, type: 3}
+    backSprite: {fileID: -5850654481607922254, guid: c751325898dad5d4d9dd657c72419302, type: 3}
+  leftArm:
+    bodyPart: 2
+    leftSprite: {fileID: -4457654057911797899, guid: 89f8157ea0bf08741a3b62c76d021697, type: 3}
+    rightSprite: {fileID: 4363383414337334846, guid: 89f8157ea0bf08741a3b62c76d021697, type: 3}
+    frontSprite: {fileID: 3396366613503041618, guid: 89f8157ea0bf08741a3b62c76d021697, type: 3}
+    backSprite: {fileID: -3606194316609043239, guid: 89f8157ea0bf08741a3b62c76d021697, type: 3}
+  rightArm:
+    bodyPart: 3
+    leftSprite: {fileID: 4580055792975019119, guid: 0d00f78b8b8a9704394e3eec40593acb, type: 3}
+    rightSprite: {fileID: 7812087660124597002, guid: 0d00f78b8b8a9704394e3eec40593acb, type: 3}
+    frontSprite: {fileID: 4972717391725487965, guid: 0d00f78b8b8a9704394e3eec40593acb, type: 3}
+    backSprite: {fileID: 6701805686653654397, guid: 0d00f78b8b8a9704394e3eec40593acb, type: 3}
+  leftLeg:
+    bodyPart: 4
+    leftSprite: {fileID: 8937776825348849501, guid: 94b27b3903a4148409d744535489fe1c, type: 3}
+    rightSprite: {fileID: 777131051105343153, guid: 94b27b3903a4148409d744535489fe1c, type: 3}
+    frontSprite: {fileID: -3551722979722026273, guid: 94b27b3903a4148409d744535489fe1c, type: 3}
+    backSprite: {fileID: -5847924043131203625, guid: 94b27b3903a4148409d744535489fe1c, type: 3}
+  rightLeg:
+    bodyPart: 5
+    leftSprite: {fileID: -3949001259081205598, guid: 16b5a4618b27b6a4782d156cc7bf378a, type: 3}
+    rightSprite: {fileID: 179538879523464050, guid: 16b5a4618b27b6a4782d156cc7bf378a, type: 3}
+    frontSprite: {fileID: -3712225760769445875, guid: 16b5a4618b27b6a4782d156cc7bf378a, type: 3}
+    backSprite: {fileID: -3356378179149878694, guid: 16b5a4618b27b6a4782d156cc7bf378a, type: 3}

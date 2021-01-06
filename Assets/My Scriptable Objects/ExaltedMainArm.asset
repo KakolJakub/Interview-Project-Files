@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6817333113c9ea43884a4ec44c38d0b, type: 3}
+  m_Name: ExaltedMainArm
+  m_EditorClassIdentifier: 
+  description: They are looong.
+  icon: {fileID: 5068784824336992446, guid: ea80af9fd217ca648944270662d9eecc, type: 3}
+  skin:
+    bodyPart: 3
+    leftSprite: {fileID: -3273561716045314827, guid: ea80af9fd217ca648944270662d9eecc, type: 3}
+    rightSprite: {fileID: -7468714192928136038, guid: ea80af9fd217ca648944270662d9eecc, type: 3}
+    frontSprite: {fileID: 5068784824336992446, guid: ea80af9fd217ca648944270662d9eecc, type: 3}
+    backSprite: {fileID: -7164536704687304845, guid: ea80af9fd217ca648944270662d9eecc, type: 3}
+  buyPrice: 100
+  sellPrice: 10
