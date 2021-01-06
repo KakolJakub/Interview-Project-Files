@@ -12,6 +12,8 @@ Project files of the game prototype.
 Submitted.
 
 ## Installation
+* Go into releases.
+* Find tag v0.5
 * Download release zip folder.
 * Extract Builds folder.
 * Inside you will find exported Unity game build, with an executable file.
