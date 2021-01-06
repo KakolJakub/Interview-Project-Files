@@ -21,4 +21,4 @@ Submitted.
 ## Technologies
 Project is created with:
 * Visual Studio Code
-* Unity version: 2020.1.2f
+* Unity version: 2020.1.2f1
